@@ -2,7 +2,7 @@
 
 ### ◻️ Objective
 
->The objective of the attached Python report seems to be an exploratory data analysis (EDA) of a Super Store Sales Analysis. The notebook includes steps like:
+>The objective of the attached Python report seems to be an exploratory data analysis (EDA) of a Super Store Sales reports by different angles. The notebook includes steps like:
 >
 >- Importing necessary libraries (e.g., numpy, pandas, matplotlib, seaborn).
 >- Loading and inspecting the dataset
