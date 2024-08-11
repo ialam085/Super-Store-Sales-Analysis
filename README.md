@@ -1,4 +1,4 @@
-## 🔳 Super Store Sales Analysis | United States
+## 🔳 Super Store Sales Analysis | United States (using PYTHON)
 
 ### ◻️ Objective
 
