@@ -50,25 +50,25 @@
 ```diff
 Sales and Profit by Region:
 
-- West: Sales = $200,000, Profit = $30,000
-- East: Sales = $150,000, Profit = $20,000
-- Central: Sales = $100,000, Profit = $10,000
-- South: Sales = $50,000, Profit = $5,000
+- West:              Sales = $200,000,     Profit = $30,000
+- East:              Sales = $150,000,     Profit = $20,000
+- Central:           Sales = $100,000,     Profit = $10,000
+- South:             Sales = $50,000,      Profit = $5,000
 ```
 ```diff
 Sales and Profit by Ship Mode:
 
-+ Standard Class: Sales = $300,000, Profit = $40,000
-+ Second Class: Sales = $100,000, Profit = $10,000
-+ First Class: Sales = $50,000, Profit = $5,000
-+ Same Day: Sales = $20,000, Profit = $2,000
++ Standard Class:    Sales = $300,000,     Profit = $40,000
++ Second Class:      Sales = $100,000,     Profit = $10,000
++ First Class:       Sales = $50,000,      Profit = $5,000
++ Same Day:          Sales = $20,000,      Profit = $2,000
 ```
 ```diff
 Sales and Profit by Category:
 
-! Technology: Sales = $200,000, Profit = $50,000
-! Furniture: Sales = $150,000, Profit = $20,000
-! Office Supplies: Sales = $100,000, Profit = $10,000
+! Technology:        Sales = $200,000,     Profit = $50,000
+! Furniture:         Sales = $150,000,     Profit = $20,000
+! Office Supplies:   Sales = $100,000,     Profit = $10,000
 ```
 
 >- **High Sales Variability**: Sales figures vary significantly, ranging from $0.44 to $22,638.48, indicating diverse transaction sizes.
