@@ -42,9 +42,37 @@
 
 ### ◻️ Key Insights
 
->- **Gross Annual Expenses**: Total business expenses fluctuated over the decade, peaking at 36M in 2018.
->- **Total Expenses Summary**: Rent and electricity were the largest expense categories, totaling 145M and 37M, respectively.
->- **Expense Comparison**: Rent consistently increased, while electricity costs showed moderate growth, highlighting a significant rise in rent over the years.
->- **Yearly Expense Breakdown**: Rent and electricity dominated annual expenses, with notable spikes in rent from 2016 to 2019.
->- **Cost per Head**: The cost per employee varied slightly each year, averaging around 73K.
->- **Employee Count**: The average number of employees steadily increased from 122 in 2010 to 519 in 2019.
+>- Top City by Sales: **Los Angeles**
+>- Top City by Profit: **New York City**
+>- Top State by Sales: **California**
+>- Top State by Profit: **California**
+
+```diff
+Sales and Profit by Region:
+
+- West: Sales = $200,000, Profit = $30,000
+- East: Sales = $150,000, Profit = $20,000
+- Central: Sales = $100,000, Profit = $10,000
+- South: Sales = $50,000, Profit = $5,000
+```
+```diff
+Sales and Profit by Ship Mode:
+
++ Standard Class: Sales = $300,000, Profit = $40,000
++ Second Class: Sales = $100,000, Profit = $10,000
++ First Class: Sales = $50,000, Profit = $5,000
++ Same Day: Sales = $20,000, Profit = $2,000
+```
+```diff
+Sales and Profit by Category:
+
+! Technology: Sales = $200,000, Profit = $50,000
+! Furniture: Sales = $150,000, Profit = $20,000
+! Office Supplies: Sales = $100,000, Profit = $10,000
+```
+
+>- **High Sales Variability**: Sales figures vary significantly, ranging from $0.44 to $22,638.48, indicating diverse transaction sizes.
+>- **Profit Fluctuations**: Profit margins are inconsistent, with values ranging from a loss of -$6,599.98 to a profit of $8,399.98, reflecting both highly profitable and unprofitable transactions.
+>- **Wide Discount Range**: Discounts offered vary widely from 0% to 80%, significantly influencing sales and profit outcomes.
+>- **Low Average Profit**: The average profit per transaction is relatively low at $28.66, suggesting potential areas for margin improvement.
+>- **Moderate Purchase Quantities**: The typical transaction involves around 3 to 4 items, indicating a moderate purchase volume per customer.
