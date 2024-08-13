@@ -1,4 +1,4 @@
-## 🔳 Super Store Sales Analysis | United States (using PYTHON)
+## 🔳 Super Store Sales Analysis | United States ${\color{blue}(using\ PYTHON)}$
 
 ${\color{red}Go\ to}$ 🔗 [Python Programs and Visualizations](https://github.com/ialam085/Super_Store_Sales_Analysis_PYTHON/blob/main/Super_Store_Sales.ipynb)
 
