@@ -40,6 +40,19 @@
 >- BarH Charts
 >- Stacked Bar Chart
 
+### ◻️ Analysis includes
+
+>- Data Loading and Exploration
+>- Data Cleaning
+>- Descriptive Statistics
+>- Data Visualization
+>- Sales Trend Analysis
+>- Profit Margin Analysis
+>- Category-wise Sales Analysis
+>- Correlation Analysis
+>- Outlier Detection
+>- Inventory and Stock Analysis
+
 ### ◻️ Key Insights
 
 >- Top City by Sales: **Los Angeles**
